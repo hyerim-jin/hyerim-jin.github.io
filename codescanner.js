@@ -19,7 +19,7 @@ $('#qr-canvas').WebCodeCam({
   width: 320,
   height: 240,
 
-  <a href="http://www.jqueryscript.net/tags.php?/video/">video</a>Source: {
+  <a href="https://www.jqueryscript.net/tags.php?/video/">video</a>Source: {
     // max Videosource resolution width
     maxWidth: 640,
     // max Videosource resolution height
